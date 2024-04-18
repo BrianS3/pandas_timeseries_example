@@ -4,6 +4,8 @@
 
 This project demonstrates basic time series analysis using a dataset containing greenhouse data. The Python libraries `pandas`, `numpy`, and `datetime` are used to manipulate and prepare the data for analysis.
 
+[Watch the Video!](https://www.youtube.com/watch?v=ks1QDtWrG_4&t=1s)
+
 ## Files
 
 - `greenhouse.csv`: CSV file containing time series data of greenhouse conditions.
